@@ -5,9 +5,9 @@ Use this 10-point inspection guide when building, reviewing, or refactoring scre
 ---
 
 ### 1. Anchor Institution & Brand Hierarchy
-- [ ] Does the licensed anchor entity (e.g., *University of Zimbabwe*, *CABS*, *Old Mutual*) anchor trust in scale, placement, and copyright?
-- [ ] Is the product or channel brand (*LogMate*, *EezySend*) presented cleanly with crisp vector SVGs without competing against the anchor?
-- [ ] Is canonical casing strictly respected (e.g., `"LogMate — Work. Learn. Log."`, `"EezySend REMITTANCE TRANSFER"`)?
+- [ ] Does the licensed anchor entity (e.g., *University of Zimbabwe*, *Licensed Commercial Bank*) anchor trust in scale, placement, and copyright?
+- [ ] Is the product or channel brand (*LogMate*, *Institutional Remit Portal*) presented cleanly with crisp vector SVGs without competing against the anchor?
+- [ ] Is canonical casing strictly respected (e.g., `"LogMate — Work. Learn. Log."`, `"REMITTANCE TRANSFER"`)?
 
 ### 2. Atmospheric Depth & Frosted Glass
 - [ ] Is the interface grounded with environmental depth (rich photographic backdrops for portals; deep institutional gradients for operational dashboards)?
@@ -22,7 +22,7 @@ Use this 10-point inspection guide when building, reviewing, or refactoring scre
 ### 4. Domain-Harmonized Color System
 - [ ] Does the palette match the domain?
   - **Academic / EdTech (*LogMate*)**: Deep Navy (`#0A3E94`) + Warm Amber/Ochre (`#D97706`).
-  - **Fintech / Banking (*EezySend*)**: Deep Emerald (`#00332c`) + Jade (`#10b981`) + Calm Rust (`#C7510A`).
+  - **Fintech / Banking**: Deep Emerald (`#00332c`) + Jade (`#10b981`) + Calm Rust (`#C7510A`).
   - **Telemetry / Ops**: Obsidian Slate + Electric Cyan.
 - [ ] Are status badges calm and unified (no jarring neon oranges)?
 

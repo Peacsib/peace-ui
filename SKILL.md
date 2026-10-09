@@ -1,6 +1,6 @@
 ---
 name: peace-ui
-description: Peace Sibanda's signature design engineering system and UI philosophy for high-trust institutional platforms, financial applications, academic portals (e.g. LogMate), and remittance systems (e.g. EezySend). Use when building or reviewing institutional dashboards, atmospheric glassmorphic layouts, editorial typography, authentic documentation/print slips, high-density workflows, or professional enterprise web apps.
+description: Peace Sibanda's signature design engineering system and UI philosophy for high-trust institutional platforms, financial applications, academic portals (e.g. LogMate), and institutional remittance systems. Use when building or reviewing institutional dashboards, atmospheric glassmorphic layouts, editorial typography, authentic documentation/print slips, high-density workflows, or professional enterprise web apps.
 ---
 
 # Peace UI: Institutional Design Engineering System & UI Philosophy
@@ -17,7 +17,7 @@ Do not provide extraneous commentary until the user asks a question or presents 
 
 ## The Philosophy of Peace UI
 
-**Peace UI** is Peace Sibanda's signature design engineering philosophy, forged across mission-critical, high-trust platforms spanning **banking & remittances** (e.g., CABS EezySend, Old Mutual) and **higher education & work-related learning** (e.g., University of Zimbabwe LogMate).
+**Peace UI** is Peace Sibanda's signature design engineering philosophy, forged across mission-critical, high-trust platforms spanning **banking, payments & institutional remittances** and **higher education & work-related learning** (e.g., University of Zimbabwe LogMate).
 
 Peace UI rejects generic template aesthetics, juvenile bouncy animations, and marketing buzzwords in favor of **quiet institutional authority, atmospheric visual depth, human typographic warmth, and rock-solid engineering hygiene**.
 
@@ -29,18 +29,18 @@ Peace UI rejects generic template aesthetics, juvenile bouncy animations, and ma
 
 ### 1. Institutional Dominance & Anchor Hierarchy
 Every high-trust system is backed by an anchor institution (a licensed bank, premier university, healthcare authority, or enterprise parent).
-- **The Anchor Dominates**: The licensed institution (e.g., *CABS*, *Old Mutual*, *University of Zimbabwe*) anchors trust in visual scale, placement, and copyright attribution.
-- **Product Identity Provides Workflow**: The product or channel brand (e.g., *EezySend*, *LogMate*) delivers clear functional identity without eclipsing the anchor entity.
+- **The Anchor Dominates**: The licensed institution (e.g., *Licensed Commercial Bank*, *Anchor Financial Entity*, *University of Zimbabwe*) anchors trust in visual scale, placement, and copyright attribution.
+- **Product Identity Provides Workflow**: The product or channel brand (e.g., *Institutional Remit Portal*, *LogMate*) delivers clear functional identity without eclipsing the anchor entity.
 - **Monochromatic & Vector Purity**: Secondary channel logos must be crisp vector SVGs (white on dark, monochromatic on light), preventing competing clashes.
 - **Exact Official Casing & Sacred Naming**:
-  - Financial/Remittance: `"EezySend REMITTANCE TRANSFER"`, uppercase personal names (`JOHN DOE`).
+  - Financial/Remittance: `"INSTITUTIONAL REMITTANCE TRANSFER"`, uppercase personal names (`JOHN DOE`).
   - Academic/Enterprise: `"LogMate — Work. Learn. Log."`, `"University of Zimbabwe"`, canonical roles (`Student`, `Supervisor`, `Operations Officer`).
 
 ### 2. Atmospheric Depth & The Frosted Glass Matrix
 Peace UI interfaces feel grounded in real-world atmosphere rather than flat, sterile white space:
 - **Layered Environmental Backdrops**:
   - For academic/field apps (*LogMate*): Rich golden-hour or twilight photography of real campus or professional environments with soft gradient masks.
-  - For financial/dashboard systems (*EezySend*): Deep institutional gradient mesh (dignified navy-to-emerald or slate-to-cobalt).
+  - For financial/dashboard systems: Deep institutional gradient mesh (dignified navy-to-emerald or slate-to-cobalt).
 - **Calm, High-Elevation Glassmorphism**:
   - Floating frosted card containers (`backdrop-blur-xl`, `bg-slate-900/40` or `bg-white/80`).
   - Subtle hairline borders (`border-white/10` to `border-white/60`, or `border-slate-200/80`).
@@ -56,10 +56,10 @@ Enterprise software often suffers from cold, generic typography. Peace UI pairs 
 ### 4. Domain-Adaptive Color Harmonies
 Peace UI does not force a single palette onto every project. It defines **curated, high-trust chromatic systems** matched to the domain:
 
-| Domain | Anchor Palette | Accent & Highlight | Status / Semantics | Representative Project |
+| Domain | Anchor Palette | Accent & Highlight | Status / Semantics | Representative Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **Academic & Professional (EdTech)** | Deep Academic Navy (`#0A3E94`, `#082F6B`) | Warm Amber / Golden Ochre (`#D97706`, `#F59E0B`) | Emerald (Active), Ochre (Pending), Slate (Draft) | **LogMate** (University of Zimbabwe) |
-| **Fintech & Remittances (Banking)** | Forest Emerald (`#00332c`), Slate Charcoal (`#0f172a`) | Jade Emerald (`#00a86b`, `#10b981`), Cobalt Blue | Rust Orange (`#C7510A` Awaiting), Emerald (Collected), Rose (Failed) | **EezySend** (CABS / Old Mutual) |
+| **Fintech & Remittances (Banking)** | Forest Emerald (`#00332c`), Slate Charcoal (`#0f172a`) | Jade Emerald (`#00a86b`, `#10b981`), Cobalt Blue | Rust Orange (`#C7510A` Awaiting), Emerald (Collected), Rose (Failed) | Commercial Banking & Remittance Portals |
 | **Telemetry & Cloud Ops** | Obsidian Slate (`#020617`, `#0f172a`) | Electric Cyan (`#06b6d4`), Precision Violet | Emerald (UP), Rust (`#C7510A` Degraded), Rose (DOWN) | Infrastructure Dashboards |
 
 ### 5. Bottom-Anchored Quick Capability Docks
@@ -88,7 +88,7 @@ When platforms generate official records (transcripts, logbook sign-offs, bankin
 - **Dual-Ring Digital Verification Stamp**:
   - Dual concentric borders (`border-2 border-dashed`).
   - Rotated -6° to -8° for authentic ink-stamp presence.
-  - Institution authority text: `"UNIVERSITY OF ZIMBABWE ELECTRONIC VERIFICATION"` or `"CABS ELECTRONIC VERIFICATION"`.
+  - Institution authority text: `"UNIVERSITY OF ZIMBABWE ELECTRONIC VERIFICATION"` or `"INSTITUTIONAL ELECTRONIC VERIFICATION"`.
 
 ### 8. Quiet, Unpretentious Security Signals
 Never shout marketing claims like *"256-bit unbreakable military-grade encryption"*.

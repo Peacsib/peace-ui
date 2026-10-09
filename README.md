@@ -56,8 +56,8 @@ The agent will automatically read [SKILL.md](./SKILL.md), reference the componen
 ### 1. Institutional Dominance & Anchor Hierarchy
 Every high-trust system is backed by an anchor institution (a licensed bank, premier university, healthcare authority, or enterprise parent).
 - **The Anchor Dominates**: The licensed bank or university anchors trust in visual scale and placement.
-- **Sub-Brand Vector Cleanliness**: Channel logos (*EezySend*, *LogMate*) are clean monochromatic vector SVGs.
-- **Sacred Casing**: Regulatory titles and names use exact canonical representations (`"EezySend REMITTANCE TRANSFER"`, `JOHN DOE`).
+- **Sub-Brand Vector Cleanliness**: Channel logos (*Institutional Portals*, *LogMate*) are clean monochromatic vector SVGs.
+- **Sacred Casing**: Regulatory titles and names use exact canonical representations (`"REMITTANCE TRANSFER"`, `JOHN DOE`).
 
 ### 2. Atmospheric Depth & Frosted Glass Matrix
 - **Layered Environmental Backdrops**: Golden-hour photography or deep institutional gradient meshes replace sterile white canvases.
@@ -69,10 +69,10 @@ Every high-trust system is backed by an anchor institution (a licensed bank, pre
 
 ### 4. Domain-Adaptive Color Harmonies
 
-| Domain | Anchor Palette | Accent & Highlight | Status / Semantics | Representative Work |
+| Domain | Anchor Palette | Accent & Highlight | Status / Semantics | Representative Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **Academic & Professional (EdTech)** | Deep Academic Navy (`#0A3E94`) | Warm Amber / Golden Ochre (`#D97706`, `#F59E0B`) | Emerald (Active), Ochre (Pending) | **LogMate** (University of Zimbabwe) |
-| **Fintech & Remittances (Banking)** | Forest Emerald (`#00332c`), Slate Charcoal | Jade Emerald (`#10b981`), Cobalt | Rust Orange (`#C7510A` Awaiting), Emerald (Collected) | **EezySend** (CABS / Old Mutual) |
+| **Fintech & Remittances (Banking)** | Forest Emerald (`#00332c`), Slate Charcoal | Jade Emerald (`#10b981`), Cobalt | Rust Orange (`#C7510A` Awaiting), Emerald (Collected) | Commercial Banking & Remittance Portals |
 | **Telemetry & Cloud Ops** | Obsidian Slate (`#020617`) | Electric Cyan (`#06b6d4`), Violet | Emerald (UP), Rust (`#C7510A` Degraded) | Cloud Infrastructure Dashboards |
 
 ### 5. Quick Capability Docks & Guided Progression
