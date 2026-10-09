@@ -1,0 +1,45 @@
+{
+  "name": "peace-ui",
+  "version": "1.0.0",
+  "description": "Peace Sibanda's signature design engineering system and UI philosophy for high-trust institutional platforms (Fintech, EdTech, Enterprise).",
+  "main": "index.js",
+  "bin": {
+    "peace-ui": "./bin/cli.js"
+  },
+  "files": [
+    "SKILL.md",
+    "RECIPES.md",
+    "CHECKLIST.md",
+    "index.js",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node bin/cli.js --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peacsib/peace-ui.git"
+  },
+  "keywords": [
+    "peace-ui",
+    "design-system",
+    "agent-skill",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "copilot",
+    "ui-ux",
+    "fintech",
+    "edtech",
+    "glassmorphism",
+    "editorial-typography"
+  ],
+  "author": "Peace Sibanda <https://www.linkedin.com/in/peacesibanda/>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peacsib/peace-ui/issues"
+  },
+  "homepage": "https://github.com/Peacsib/peace-ui#readme"
+}
